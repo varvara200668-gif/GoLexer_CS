@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoLexer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c0902d2f3423b244036c237c8746c72cf7bdb3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoLexer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoLexer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -40,3 +40,4 @@ C:\Users\79965\GoLexer_CS\GoLexer\obj\Debug\net8.0\refint\GoLexer.dll
 C:\Users\79965\GoLexer_CS\GoLexer\obj\Debug\net8.0\GoLexer.pdb
 C:\Users\79965\GoLexer_CS\GoLexer\obj\Debug\net8.0\GoLexer.genruntimeconfig.cache
 C:\Users\79965\GoLexer_CS\GoLexer\obj\Debug\net8.0\ref\GoLexer.dll
+C:\Users\79965\GoLexer_CS\GoLexer\obj\Debug\net8.0\GoLexer.sourcelink.json
